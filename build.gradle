@@ -28,7 +28,7 @@ allprojects {
         ashleyVersion = '1.7.0'
         aiVersion = '1.8.0'
         dalcomsLibGdxVersion = '1.0.0'
-        dalcomsLibGdxCommitN = 'edcdf16'
+        dalcomsLibGdxCommitN = '6bdddca'
     }
 
     repositories {
